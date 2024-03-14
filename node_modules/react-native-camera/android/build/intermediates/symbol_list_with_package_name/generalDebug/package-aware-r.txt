@@ -1,0 +1,18 @@
+org.reactnative.camera
+attr aspectRatio
+attr autoFocus
+attr facing
+attr flash
+id auto
+id back
+id front
+id off
+id on
+id redEye
+id surface_view
+id texture_view
+id torch
+layout surface_view
+layout texture_view
+style Widget_CameraView
+styleable CameraView android_adjustViewBounds aspectRatio autoFocus facing flash

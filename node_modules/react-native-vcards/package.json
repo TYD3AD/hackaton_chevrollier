@@ -1,0 +1,36 @@
+{
+  "name": "react-native-vcards",
+  "version": "2.5.0",
+  "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "~2.13.0"
+  },
+  "peerDependencies": {
+    "react-native-fs": "2.x"
+  },
+  "devDependencies": {
+    "mocha": "~2.5.3"
+  },
+  "scripts": {
+    "test": "mocha ./test/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hammadj/react-native-vcards.git"
+  },
+  "keywords": [
+    "vCard",
+    "vCards",
+    "contacts"
+  ],
+  "contributors": [
+    "Eric J Nesser",
+    "Hammad Jutt (https://github.com/hammadj)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enesser/vCards-JS/issues"
+  },
+  "homepage": "https://github.com/hammadj/react-native-vcards"
+}

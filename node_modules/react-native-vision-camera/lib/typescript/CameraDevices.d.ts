@@ -1,0 +1,7 @@
+import { CameraDevice } from './CameraDevice';
+export declare const CameraDevices: {
+    userPreferredCameraDevice: CameraDevice | undefined;
+    getAvailableCameraDevices: () => CameraDevice[];
+    addCameraDevicesChangedListener: (callback: (newDevices: CameraDevice[]) => void) => import("react-native").EmitterSubscription;
+};
+//# sourceMappingURL=CameraDevices.d.ts.map
