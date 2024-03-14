@@ -22,7 +22,8 @@ Cette application doit donc être en mesure :
 - d'enregistrer l'entrée du parlementaire dans l'hémicycle en base de données
 
 ## Caractéristiques techniques : 
-Afin de réaliser cette applications, je me suis tourné vers le langage React-Native, permettant de réaliser des applications mobiles en JavaScript et ai développé sur webStorm ainsi qu'un peu sur Visual Studio Code avec npm et npx.
+Afin de réaliser cette applications, je me suis tourné vers le langage React-Native, permettant de réaliser des applications mobiles en JavaScript, n'étant pas à l'aise avec les langages tel que le flutter ou le kotlin, ce langage était pour moi le plus adéquat à ma situation. 
+J'ai développé sur WebStorm ainsi qu'un peu sur Visual Studio Code avec npm et npx.
 
 Ne connaissant pas le langage et n'ayant pas une bonne aisance en développement mobile, je me suis aidé d'intelligence artificielle à savoir ChatGPT, Gemini (anciennement Bard) et également un peu copilot.
 
